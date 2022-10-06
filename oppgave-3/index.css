@@ -1,0 +1,12 @@
+body {
+    background-color:darkblue;
+}
+
+#boks {
+    width:0px;
+    height:600px;
+    background-color: wheat;
+    margin:auto;
+    margin-top:80px;
+}
+

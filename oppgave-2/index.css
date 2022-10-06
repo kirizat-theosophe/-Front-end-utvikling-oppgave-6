@@ -1,0 +1,34 @@
+body {
+    background-color: rebeccapurple;
+    color: white;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+#divBloggere {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-row: 2;
+    gap: 6px;
+}
+
+#divBloggere div {
+    background-color: lightblue;
+    color: darkgreen;
+    padding: 6px 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+ul {
+    line-height: 1.6;
+}
+
+strong {
+    color: yellow;
+}

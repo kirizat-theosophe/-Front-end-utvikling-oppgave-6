@@ -1,0 +1,14 @@
+
+body {
+    background-color: darkgreen;
+    color: wheat;
+
+#klikkOversikt{
+    line-height:25px;
+    padding:10px;
+}
+
+h1 {
+    padding:10px;
+    margin-bottom:0px;
+}
